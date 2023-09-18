@@ -5,5 +5,5 @@ trl==0.4.7
 transformers[sentencepiece]==4.31.0
 scipy==1.11.2
 tensorboard==2.13.0
-evaluate==0.40.0
+evaluate==0.4.0
 bert_score==0.3.12
